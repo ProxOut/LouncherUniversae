@@ -40,6 +40,7 @@ public class NewJFrame extends javax.swing.JFrame {
             "Button5", "Button6", "Button7", "Button8", "Button9", 
             "Button10", "Button11", "Button12", "Button13"
         };
+        System.out.println("un papiii cambiooo");
         
         // Itera sobre los nombres de los botones.
         for (int i = 0; i < buttons.length; i++) {
